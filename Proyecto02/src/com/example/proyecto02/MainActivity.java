@@ -25,7 +25,7 @@ public class MainActivity extends Activity {
             final  EditText text = (EditText)findViewById(R.id.editText1); 
             final Button btn = (Button) findViewById(R.id.button1);
             final Button btn1 = (Button) findViewById(R.id.button2);
-            final second second= (second);
+       
            //  final Editable address = (text.getText());
        
               
