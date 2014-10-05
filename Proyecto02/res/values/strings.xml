@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Donde Esta</string>
+    <string name="title">Introduce Lugar o Dirección</string>
+    <string name="action_settings">Settings</string>
+    <string name="btn">Buscar</string>
+    <string name="btn1">Copiar desde contacto</string>
+    <string name="title_activity_second">SecondActivity</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="btn2">Bilbao</string>
+    <string name="btn3">Valencia</string>
+    <string name="btn4">Barcelona</string>
+    <string name="btn5">Sevilla</string>
+    <string name="btn6">Valladolid</string>
+    <string name="btn7">Madrid</string>
+
+</resources>
